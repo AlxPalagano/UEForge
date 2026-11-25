@@ -1,6 +1,12 @@
-# UE Forge
+<p align="center">
+  <img src="Assets/logo.png" alt="UE Forge Logo" width="112" />
+</p>
 
-A fast, lightweight, dark-mode Windows desktop launcher and C++ builder for Unreal Engine 4/5 projects — designed as a clean, reusable replacement for per-project `BuildAndRun.bat` scripts.
+<h1 align="center">UE Forge</h1>
+
+<p align="center">
+  A fast, lightweight, dark-mode Windows desktop launcher and C++ builder for Unreal Engine 4/5 projects — designed as a clean, reusable replacement for per-project <code>BuildAndRun.bat</code> scripts.
+</p>
 
 ![UE Forge Screenshot](Assets/screenshot.png)
 
