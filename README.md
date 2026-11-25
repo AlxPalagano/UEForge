@@ -2,6 +2,8 @@
 
 A fast, lightweight, dark-mode Windows desktop launcher and C++ builder for Unreal Engine 4/5 projects — designed as a clean, reusable replacement for per-project `BuildAndRun.bat` scripts.
 
+![UE Forge Screenshot](Assets/screenshot.png)
+
 ## Features
 
 - **Multi-Project Auto-Discovery:** Scans one or more configured project folders for `*.uproject` files, automatically reading thumbnails (`<Project>.png` / `Saved/AutoScreenshot.png`), engine versions, C++ vs Blueprint status, and `Source\*Editor.Target.cs` targets (including custom targets such as `LyraEditor`).
